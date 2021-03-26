@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "in.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "*.tcc": "c",
+        "ctime": "c",
+        "limits": "c",
+        "numeric": "c",
+        "streambuf": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c",
+        "ioctl.h": "c",
+        "audio.h": "c",
+        "g711_encode.h": "c",
+        "common.h": "c"
+    }
+}
